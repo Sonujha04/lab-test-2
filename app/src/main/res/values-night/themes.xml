@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.DestinationGuide" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">#003238</item>
+    </style>
+
+    <style name="Theme.Lablest2" parent="Base.Theme.DestinationGuide" />
+    <style name="Theme.DestinationGuide" parent="Base.Theme.DestinationGuide" />
+</resources>

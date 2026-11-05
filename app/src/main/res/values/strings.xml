@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DestinationGuide</string>
+    <string name="tagline">Discover Amazing Destinations</string>
+    <string name="search_hint">Enter destination (e.g. Paris, Tokyo)&#8230;</string>
+    <string name="search_button">Search</string>
+    <string name="quick_suggestions">Popular Destinations:</string>
+    <string name="read_more">Read More</string>
+    <string name="loading_text">Fetching destination details&#8230;</string>
+    <string name="loading_article">Loading full article&#8230;</string>
+    <string name="error_empty_input">Please enter a destination name.</string>
+    <string name="error_not_found">Destination not found. Please try searching for another place.</string>
+    <string name="error_network">Network error. Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="web_title">Destination Article</string>
+
+    <!-- WebView Nav Labels -->
+    <string name="nav_back">Back</string>
+    <string name="nav_forward">Forward</string>
+    <string name="nav_refresh">Refresh</string>
+    <string name="nav_home">Home</string>
+</resources>
